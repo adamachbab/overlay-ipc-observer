@@ -1,0 +1,7 @@
+build/
+*.jsonl
+*.obj
+*.pdb
+*.exe
+.vs/
+.claude/
